@@ -41,6 +41,5 @@ Throughout the program, apart from the trending language for backend, and a fron
 
 # Links
 Signup: https://forms.gle/HTpqHheQTHKoyfAS7 \
-Community sesions:\
-Slack:\
-Discord: https://discord.gg/vVRu2U8Z4p
+Slack: https://join.slack.com/t/soyouthinkyou-bbn3454/shared_invite/zt-17ma7dn03-b9ntTAwDWZM0EEIR4leBTQ \
+Community sesions:
