@@ -11,6 +11,7 @@ We aim to achieve our goal by learning full stack development via practice in fo
 * Active mentorship and community engagement
 
 # Requirements:
+* A working PC
 * Digital stability
 * A working Google Account
 * Brain cells
@@ -39,7 +40,7 @@ Throughout the program, apart from the trending language for backend, and a fron
 * Algorithms
 
 # Links
-Signup: https://forms.gle/HTpqHheQTHKoyfAS7\
+Signup: https://forms.gle/HTpqHheQTHKoyfAS7 \
 Community sesions:\
 Slack:\
 Discord: https://discord.gg/vVRu2U8Z4p
