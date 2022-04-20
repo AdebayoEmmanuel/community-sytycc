@@ -36,8 +36,8 @@ Throughout the program, apart from the trending language for backend, and a fron
 * Algorithms
 * Postgres SQL
 * Event driven approach
-* Continous deployment and integration
 * Live portfolio projects collaborations
+* Continous deployment and integration
 
 # Links
 Signup: https://forms.gle/HTpqHheQTHKoyfAS7 \
