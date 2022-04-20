@@ -39,7 +39,7 @@ Throughout the program, apart from the trending language for backend, and a fron
 * Algorithms
 
 # Links
-Signup: https://forms.gle/HTpqHheQTHKoyfAS7
-Community sesions:
-Slack:
+Signup: https://forms.gle/HTpqHheQTHKoyfAS7\
+Community sesions:\
+Slack:\
 Discord: https://discord.gg/vVRu2U8Z4p
