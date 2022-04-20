@@ -1,7 +1,7 @@
 # Description:
 Welcome to "So You Think You Can Code", we are a community of budding talents, currently upskilling in tech, with the goal of becoming great software engineers.
 
-This is an initiative driven by **Mr. Nkenchor Osemeke**, who the aims to arm every community member with useful skills, experience and mentorship that will enable them harness trending technologies, and programming principles to build, test and deploy scalable solutions between the span of 3 - 6 months;
+This is an initiative driven by *Mr. Nkenchor Osemeke*, who aims to arm every community member with useful skills, experience and mentorship that will enable them harness trending technologies, and programming principles to build, test and deploy scalable solutions between the span of 3 - 6 months;
 
 We aim to achieve our goal by learning full stack development via practice in form of:
 * Peer programming
