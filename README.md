@@ -29,15 +29,15 @@ We aim to achieve our goal by learning full stack development via practice in fo
 
 Throughout the program, apart from the trending language for backend, and a front end framework, we will work with these engineering tools and concepts:
 * Cloud
-* Reddis
-* MongoDB
-* Postgres SQL
-* Live portfolio projects collaborations
 * Linux
+* Reddis
 * DevOps
-* Continous deployment and integration
-* Event driven approach
+* MongoDB
 * Algorithms
+* Postgres SQL
+* Event driven approach
+* Continous deployment and integration
+* Live portfolio projects collaborations
 
 # Links
 Signup: https://forms.gle/HTpqHheQTHKoyfAS7 \
