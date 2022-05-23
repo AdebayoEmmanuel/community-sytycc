@@ -25,7 +25,7 @@ I’ll put each specific wording between quotes. The same words may be used for 
 **Mercurial** is very similar to Git in its concepts (although the syntax of its command-line tool is often different). It is more rarely seen in the industry than Git, but is still very relevant. It is the one used by Facebook, for instance, for its main application.
 
 # The lowdown on Git
-[!bookcover](./lowdowngit.jpg)
+![lowdowngit](https://user-images.githubusercontent.com/92952014/169802116-e6b91f22-4ef7-4c3b-b49f-497d7637dd20.jpg)
 
 A particularity about Git, is that it’s designed to be useable without a central repository (you can **pull** code from your friend’s computer, and **push** you work back there, for instance), but not many people use it that way. There is usually a central Git server that the whole team **pushes** code to and **pulls** code from; however, that explains why it is often referred as a “decentralized” system.
 
